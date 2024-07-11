@@ -8,20 +8,12 @@
 
 ## Skills
 
-⭐️⭐️⭐️
-
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-
-⭐️⭐️
-
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![nextjs](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
-
-⭐️
-
 ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![expressjs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
@@ -40,6 +32,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/%EA%B2%BD%EB%AF%BC-%EA%B6%8C-576759288/)](https://www.linkedin.com/in/%EA%B2%BD%EB%AF%BC-%EA%B6%8C-576759288/)
 [![velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@phillip0919)](https://velog.io/@phillip0919)
 
+---
 
 [![phillipkwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=phillipkwon)](https://github.com/anuraghazra/github-readme-stats)
 
