@@ -38,7 +38,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phillipkwon&layout=compact&theme=vue)
 
-[![Github](https://www.codenary.co.kr/widget/github/api?username=권경민-11)](https://www.codenary.co.kr/user-profile/detail/권경민-11?github_ride=true&utm_source=github)
-
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPhillipKwon&count_bg=%2336D58D&title_bg=%23555555&title=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB&edge_flat=false)
 
